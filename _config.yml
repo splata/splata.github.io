@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Cooking Apps
+title:            CookingApps
 tagline:          'Sergio Plata&#39;s Blog'
-description:      'Sergio Plata | Mobile developer'
+description:      'Sergio Plata | Mobile Developer'
 url:              http://splata.github.io/
 baseurl:          /
 
@@ -24,3 +24,16 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+assets:
+  dirname: assets
+  baseurl: /assets/
+  sources:
+    - _assets/fonts
+    - _assets/images
+  js_compressor: uglifier
+  css_compressor: sass
+  cachebust: none
+  cache: false
+  gzip: [ text/css, application/javascript ]
+  debug: false
