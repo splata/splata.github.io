@@ -1,9 +1,22 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
+Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'm currently studying Computer Science at UNED.
+
+## Work experience
+
 <p class="message">
+  * [Hospital Universitario Virgen de las Nieves - 2015] (http://www.hospitalgranada.es/normopraxis/)
+  <strong>Internship: </strong> development of Praxis Android app for students at UGR's School of Medicine.
+</p>
+
+## Education and training
+
+## Skills
+
+<!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
@@ -27,4 +40,4 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+Thanks for reading! -->
