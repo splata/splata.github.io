@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Cooking Apps
 tagline:          'Sergio Plata&#39;s Blog'
-description:      'Sergio Plata | Mobile Developer'
+description:      'Sergio Plata | Mobile & Web Developer'
 url:              http://splata.github.io/
 baseurl:          /
 
