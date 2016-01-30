@@ -21,4 +21,4 @@ To update your project, edit your build.gradle file as follows:
              proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
 {% endhighlight %}
 
-[Source:](http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0)
+[Source: http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0](http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0)
