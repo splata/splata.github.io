@@ -12,6 +12,7 @@ tagline:          'Sergio Plata&#39;s Blog'
 description:      'Sergio Plata | Mobile & Web Developer'
 url:              http://splata.github.io/
 baseurl:          /
+logo:             /assets/images/logo.png
 
 author:
   name:           'Sergio Plata'
@@ -23,7 +24,11 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/splata/splata.github.io
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
 
 assets:
   dirname: assets
