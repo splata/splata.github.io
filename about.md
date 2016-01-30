@@ -7,10 +7,9 @@ Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'
 
 ## Work experience
 
-* [Hospital Universitario Virgen de las Nieves - 2015] (http://www.hospitalgranada.es/normopraxis/)
-<p class="message">
-  <strong>Internship: </strong> development of Praxis Android app for students at UGR's School of Medicine.
-</p>
+[Hospital Universitario Virgen de las Nieves - 2015] (http://www.hospitalgranada.es/normopraxis/)
+
+> **Internship: ** development of Praxis Android app for students at UGR's Faculty of Medicine.
 
 ## Education and training
 
