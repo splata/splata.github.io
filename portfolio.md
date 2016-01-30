@@ -3,6 +3,22 @@ layout: page
 title: Portfolio
 ---
 
-<p class="message">
-  My favorite works
-</p>
+Here you can take a look at my favorite works:
+
+## Praxis
+
+Praxis is an Android app that helps University of Granada Medical School's students to manage and organize their medical practices.
+
+It provides a list of the available practices for the student where you can view more information about them and evaluate the teacher when the practice is over.
+
+## Eat the Burger!
+
+Eat the Burger! is a game for Android where your character have to eat all the fast food that rains from the sky and avoid the healthy ones (any resemblance to reality is pure coincidence). 
+
+You can download the code for this app [here](https://github.com/Schbk77/Practica8-PMDM).
+
+## Forever alone Bot
+
+This Android app lets you make a real conversation with the Cleverbot conversational bot.
+
+You can download the code for this app [here](https://github.com/Schbk77/Practica2-PSP).

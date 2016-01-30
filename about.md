@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'm currently studying Computer Science at UNED.
+Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'm currently studying Computer Engineering at UNED.
 
 ## Work experience
 
@@ -14,7 +14,7 @@ Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'
 ## Education and training
 
 [Bachelor's Degree in Computer Engineering](https://portal.uned.es/portal/page?_pageid=93,22985816&_dad=portal&_schema=PORTAL)
-<br>2015 - Present | Universidad Nacional de Educación a Distancia (Spain)
+<br>2015 - Present | National Distance Education University (UNED) (Spain)
 
 [Associate's Degree in cross-platform app development](http://www.ieszaidinvergeles.org/)
 <br>2013 - 2015 | I.E.S. Zaidín-Vergeles, Granada (Spain)
