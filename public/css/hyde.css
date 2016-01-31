@@ -269,6 +269,7 @@ a.sidebar-nav-item:focus {
 
 .blog-title {
     font-family: 'Lato', sans-serif;
+    font-size: 5em;
 }
 
 /* LOGO */
@@ -281,5 +282,5 @@ a.sidebar-nav-item:focus {
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 	background: url(/assets/images/logo.png) no-repeat center;
-    padding: 10px;
+    padding: 30px;
 }
