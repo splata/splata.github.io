@@ -281,4 +281,5 @@ a.sidebar-nav-item:focus {
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 	background: url(/assets/images/logo.png) no-repeat center;
+    padding: 10px;
 }
