@@ -8,27 +8,53 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
-    <nav class="sidebar-nav">
-      <a class="collapse navbar-collapse{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="collapse navbar-collapse{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Start Bootstrap</a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        {% if page.url == '/index.html' %}
+          <li class="active">
+        {% else %}
+          <li>
         {% endif %}
-      {% endfor %}
+        <a href="/index.html">Home</a></li>
 
-      <a class="collapse navbar-collapse" href="{{ site.baseurl }}">Blog</a>
-    </nav>
+        {% if page.url == '/about.md' %}
+          <li class="active">
+        {% else %}
+          <li>
+        {% endif %}
+        <a href="/about.md">About</a></li>
 
+        {% if page.url == '/portfolio.md' %}
+          <li class="active">
+        {% else %}
+          <li>
+        {% endif %}
+        <a href="/portfolio.md">Portfolio</a></li>
+
+        {% if page.url == '/index.html' %}
+          <li class="active">
+        {% else %}
+          <li>
+        {% endif %}
+        <a href="/index.html">Blog</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
