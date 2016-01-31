@@ -274,12 +274,14 @@ a.sidebar-nav-item:focus {
 /* LOGO */
 
 .sidebar-round-logo {
-    margin: auto;
-    width: 80px;
-    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    width: 90px;
+    height: 90px;
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: url(/assets/images/logo.png) no-repeat center;
-    padding: 30px;
+	background: white url(/assets/images/logo.png) center no-repeat;
+    background-size: cover;
 }

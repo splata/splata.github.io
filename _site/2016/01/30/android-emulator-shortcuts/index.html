@@ -11,7 +11,7 @@
 
   <title>
     
-      Cooking Apps &middot; Sergio Plata&#39;s Blog
+      Android Emulator Shortcuts &middot; Cooking Apps
     
   </title>
 
@@ -83,18 +83,10 @@
 
 
     <div class="content container">
-      <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2016/01/30/android-emulator-shortcuts/">
-        Android Emulator Shortcuts
-      </a>
-    </h1>
-
-    <span class="post-date">30 Jan 2016</span>
-
-    <p>When you&#39;re working with the built-in Android emulator for Android Studio you sometimes need to use a button from the device to test your app, such as &#39;volume up&#39; or &#39;lock&#39;.</p>
+      <div class="post">
+  <h1 class="post-title">Android Emulator Shortcuts</h1>
+  <span class="post-date">30 Jan 2016</span>
+  <p>When you&#39;re working with the built-in Android emulator for Android Studio you sometimes need to use a button from the device to test your app, such as &#39;volume up&#39; or &#39;lock&#39;.</p>
 
 <p>Here is a short list of the available shortcuts for this:</p>
 
@@ -188,48 +180,24 @@
 
 <p><a href="http://www.shortcutworld.com/en/win/Android-Emulator.html">Source: http://www.shortcutworld.com/en/win/Android-Emulator.html</a></p>
 
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2015/07/05/gradle-migration-old-android-studio-projects/">
-        How to migrate an old Android Studio project in Gradle
-      </a>
-    </h1>
-
-    <span class="post-date">05 Jul 2015</span>
-
-    <p>The most common issue that affects users is the runProguard property changing names to <code>minifyEnabled</code>. If you run into the build error</p>
-
-<blockquote>
-<p>Gradle DSL method not found: &#39;runProguard()&#39;</p>
-</blockquote>
-
-<p>then this is the cause of your build error.</p>
-
-<p>This crops up a lot because that property was inserted into all projects created by Android Studio prior to version 0.14.0.</p>
-
-<p>To update your project, edit your build.gradle file as follows:</p>
-
-<figure class="highlight"><pre><code class="language-js" data-lang="js">    <span class="nx">release</span> <span class="p">{</span>
-<span class="o">-</span>       <span class="nx">runProguard</span> <span class="kc">true</span>
-<span class="o">+</span>       <span class="nx">minifyEnabled</span> <span class="kc">true</span>
-        <span class="nx">proguardFiles</span> <span class="nx">getDefaultProguardFile</span><span class="p">(</span><span class="s1">&#39;proguard-android.txt&#39;</span><span class="p">),</span> <span class="s1">&#39;proguard-rules.txt&#39;</span></code></pre></figure>
-
-<p><a href="http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0">Source: http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0</a></p>
-
-  </div>
-  
 </div>
 
-<div class="pagination">
-  
-    <span class="pagination-item older">Older</span>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2015/07/05/gradle-migration-old-android-studio-projects/">
+            How to migrate an old Android Studio project in Gradle
+            <small>05 Jul 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
 </div>
+
     </div>
 
   </body>
