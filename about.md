@@ -47,7 +47,7 @@ Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'
 ## Contact and social media
 
 <ul>
-    <li><a href="mailto:serconpla@gmail.com" target="_blank">Email</a></li>
+    <li><a href="mailto:serconpla@gmail.com">Email</a></li>
     <li><a href="https://es.linkedin.com/in/sergio-contreras-plata-1499149a
 " target="_blank">LinkedIn</a></li>
     <li><a href="https://github.com/splata" target="_blank">GitHub</a></li>
