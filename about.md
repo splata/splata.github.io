@@ -13,7 +13,7 @@ Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'
 
 ## Education and training
 
-[Bachelor's Degree in Computer Engineering](https://portal.uned.es/portal/page?_pageid=93,22985816&_dad=portal&_schema=PORTAL)
+[University Degree in Computer Engineering](https://portal.uned.es/portal/page?_pageid=93,22985816&_dad=portal&_schema=PORTAL)
 <br>2015 - Present | National Distance Education University (UNED) (Spain)
 
 [Associate's Degree in cross-platform app development](http://www.ieszaidinvergeles.org/)
