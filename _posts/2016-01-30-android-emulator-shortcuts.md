@@ -3,9 +3,9 @@ layout: post
 title: Android Emulator Shortcuts  
 ---
 
-When you're working with the built-in Android emulator for Android Studio you sometimes need to use a button from the device to test your app, such as 'volume up' or 'lock'.
+When you're working with the built-in Android emulator for Android Studio you have to use some button from the physical device to test your app, such as 'volume down' or 'lock'.
 
-Here is a short list of the available shortcuts for this:
+Here is a short list of the available shortcuts for the emulator:
 
 <table>
   <caption>Main Device Keys</caption>

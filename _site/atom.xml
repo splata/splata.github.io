@@ -17,9 +17,9 @@
    <link href="http://splata.github.io//2016/01/30/android-emulator-shortcuts/"/>
    <updated>2016-01-30T00:00:00+01:00</updated>
    <id>http://splata.github.io//2016/01/30/android-emulator-shortcuts</id>
-   <content type="html">&lt;p&gt;When you&amp;#39;re working with the built-in Android emulator for Android Studio you sometimes need to use a button from the device to test your app, such as &amp;#39;volume up&amp;#39; or &amp;#39;lock&amp;#39;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;When you&amp;#39;re working with the built-in Android emulator for Android Studio you have to use some button from the physical device to test your app, such as &amp;#39;volume down&amp;#39; or &amp;#39;lock&amp;#39;.&lt;/p&gt;
 
-&lt;p&gt;Here is a short list of the available shortcuts for this:&lt;/p&gt;
+&lt;p&gt;Here is a short list of the available shortcuts for the emulator:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;caption&gt;Main Device Keys&lt;/caption&gt;
