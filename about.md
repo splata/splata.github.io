@@ -5,6 +5,8 @@ title: About me
 
 Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'm currently studying Computer Engineering at UNED.
 
+You can download my résumé in Spanish [here]({{ site.url }}/assets/cv_sergio_contreras_plata_spanish.pdf). 
+
 ## Work experience
 
 [Hospital Universitario Virgen de las Nieves](http://www.hospitalgranada.es/normopraxis/)
@@ -27,7 +29,7 @@ Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'
     <li>Android SDK</li>
     <li>Java EE (Spring Framework, JPA, Hibernate)</li>
     <li>Web Services (REST)</li>
-    <li>SGBD (MySQL, SQLite, db4o)</li>
+    <li>DBMS (MySQL, SQLite, db4o)</li>
     <li>Swift</li>
     <li>Objective-C</li>
     <li>iOS SDK</li>
