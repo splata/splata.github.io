@@ -25,16 +25,17 @@ Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'
 <ul>
     <li>Java</li>
     <li>Android SDK</li>
-    <li>Java EE (JPA, Hibernate)</li>
-    <li>Spring Framework</li>
+    <li>Java EE (Spring Framework, JPA, Hibernate)</li>
     <li>Web Services (REST)</li>
-    <li>MySQL, SQLite, db4o</li>
+    <li>SGBD (MySQL, SQLite, db4o)</li>
     <li>Swift</li>
     <li>Objective-C</li>
     <li>iOS SDK</li>
+    <li>C#</li>
     <li>Web Design</li>
     <li>HTML5 &amp; CSS3</li>
     <li>PHP</li>
+    <li>JavaScript</li>
 </ul>
 
 <strong>Languages</strong><br>
