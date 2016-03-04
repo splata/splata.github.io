@@ -5,13 +5,13 @@ title: About me
 
 Hi, my name is Sergio and I'm a Mobile and Web developer from Granada, Spain. I'm currently studying Computer Engineering at UNED.
 
-You can download my résumé in Spanish [here]({{ site.url }}/assets/cv_sergio_contreras_plata_spanish.pdf). 
+You can download my CV in [Spanish]({{ site.url }}/assets/CVESP.pdf) and [English]({{ site.url }}/assets/CVENG.pdf). 
 
 ## Work experience
 
 [Hospital Universitario Virgen de las Nieves](http://www.hospitalgranada.es/normopraxis/)
 
-> <strong>March 2015 - June 2015 | Internship </strong><br> Praxis Android app development for University of Granada Medical School.
+> <strong>March 2015 - June 2015 | Internship </strong><br> Praxis Android app development for University of Granada Medical School using Java and RESTful web services.
 
 ## Education and training
 
@@ -33,7 +33,7 @@ You can download my résumé in Spanish [here]({{ site.url }}/assets/cv_sergio_c
     <li>Swift</li>
     <li>Objective-C</li>
     <li>iOS SDK</li>
-    <li>C#</li>
+    <li>C#/C++</li>
     <li>Web Design</li>
     <li>HTML5 &amp; CSS3</li>
     <li>PHP</li>
@@ -43,8 +43,8 @@ You can download my résumé in Spanish [here]({{ site.url }}/assets/cv_sergio_c
 <strong>Languages</strong><br>
 <ul>
     <li>Spanish (Native)</li>
-    <li>English (B2, fluent)</li>
-    <li>French (B1)</li>
+    <li>English (B2, First Certificate in English)</li>
+    <li>French (B1, DELF B1)</li>
 </ul>
 
 ## Contact and social media
