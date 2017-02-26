@@ -1,9 +1,9 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 
 # Setup
 title:            Cooking Apps
@@ -41,3 +41,4 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+  future: true
