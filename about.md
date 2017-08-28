@@ -11,11 +11,16 @@ You can download my CV in [Spanish]({{ site.url }}/assets/CVESP.pdf) and [Englis
 
 [Cash Alhambra](http://www.cashalhambra.com/)
 
-> <strong>December 2016 - Present | Web Developer </strong><br> · Web design and development for distribucionesplata.com with Bootstrap 4<br> · WordPress theme design and development for cashalhambra.com <br> · SEO & Online Marketing for distribucionesplata.com and cashalhambra.com <br> · PrestaShop online store management for distribucionesplata.com/tienda
+> <strong>December 2016 - Present | Web Developer </strong><br> 
+· Responsive web design and development for distribucionesplata.com with Bootstrap 4<br> 
+· WordPress responsive theme design and development for cashalhambra.com using Boostrap 4<br> 
+· SEO & Online Marketing for distribucionesplata.com and cashalhambra.com<br> 
+· PrestaShop online store management for distribucionesplata.com<br>
+· Product catalog web application using MongoDB and JavaScript.
 
 [Hospital Universitario Virgen de las Nieves](http://www.hospitalgranada.es/normopraxis/)
 
-> <strong>March 2015 - June 2015 | Internship </strong><br> Praxis Android app development for University of Granada Medical School using Java and RESTful web services.
+> <strong>March 2015 - June 2015 | Internship </strong><br> Praxis: Android app development for University of Granada Medical School using Java and RESTful web services.
 
 ## Education and training
 
@@ -33,15 +38,15 @@ You can download my CV in [Spanish]({{ site.url }}/assets/CVESP.pdf) and [Englis
     <li>Android SDK</li>
     <li>Java EE (Spring Framework, JPA, Hibernate)</li>
     <li>Web Services (REST)</li>
-    <li>DBMS (MySQL, SQLite, db4o)</li>
-    <li>Swift</li>
-    <li>Objective-C</li>
+    <li>DBMS (MySQL, SQLite, db4o, MongoDB)</li>
+    <li>Swift &amp; Objective-C</li>
     <li>iOS SDK</li>
     <li>C#/C++</li>
-    <li>Web Design</li>
+    <li>Responsive Web Design</li>
     <li>HTML5 &amp; CSS3</li>
-    <li>PHP</li>
     <li>JavaScript</li>
+    <li>PHP</li>
+    <li>SEO & SEM</li>
 </ul>
 
 <strong>Languages</strong><br>
